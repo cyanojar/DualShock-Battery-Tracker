@@ -1,7 +1,7 @@
 # DualShock-Battery-Tracker
 
 WIP WIP WIP
-(It wasn't my itention to put it on GitHub because it was just a personal project, but a friend me to so I can organize it better. So, I'm fairly new to GitHub thing)
+(It wasn't my itention to put it on GitHub because it was just a personal project, but a friend me told me to so I can organize it better. So, I'm fairly new to GitHub thing)
 
 A simple PowerShell script to track the battery life of modded DS4 controllers.
 
