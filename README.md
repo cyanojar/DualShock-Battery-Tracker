@@ -1,6 +1,7 @@
 # DualShock-Battery-Tracker
 
 WIP WIP WIP
+(It wasn't my itention to put it on GitHub because it was just a personal project, but a friend me to so I can organize it better. So, I'm fairly new to GitHub thing)
 
 A simple PowerShell script to track the battery life of modded DS4 controllers.
 
@@ -26,5 +27,7 @@ It might sound dumb, and it won't be scientifically accurate, but honestly? It's
 1. Download the `Tracker.ps1` file.
 2. Right-click the file and select "Run with PowerShell".
 3. The setup will guide you through connecting your controller and saving your settings.
+
+If you want to try it out, I put the code on alpha branch.
 
 and I was just bored.. 
